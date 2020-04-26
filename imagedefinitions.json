@@ -1,0 +1,7 @@
+
+[
+    {
+      "name": "nginxcontainer",
+      "imageUri": "576323771757.dkr.ecr.us-east-1.amazonaws.com/nginxalpine:latest"
+    }
+]
